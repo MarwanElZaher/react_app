@@ -1,3 +1,3 @@
 # react_app
 
-application that shows how react app works
+application that shows how react works
